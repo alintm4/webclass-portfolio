@@ -11,7 +11,7 @@ SECRET_KEY = 'django-insecure-your-secret-key-change-this-in-production'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1','https://webclass-portfolio.onrender.com']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
